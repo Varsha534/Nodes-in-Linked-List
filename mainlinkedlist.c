@@ -3,7 +3,7 @@
 
 void addatend(int);
 void addatstart(int);
-void addinbetween(int);
+// void addinbetween(int);
 void display();
 
 struct node 
@@ -36,10 +36,9 @@ void addatstart(int info)
 	start = newnode;
 }
 
-void addinbetween(int info)
-{
-	
-}
+// void addinbetween(int info)
+// {
+// }
 
 int main()
 {
